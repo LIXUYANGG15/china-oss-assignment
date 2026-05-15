@@ -1,0 +1,55 @@
+1. Recent commits within 6 months | 最近 6 个月内有提交
+
+✅ [ZH]: 每天都有多次提交，开发非常活跃。
+
+✅ [EN]: Daily active commits, showing highly active development.
+
+2. Maintainers reply to recent issues | 维护者回复近期 Issue
+
+✅ [ZH]: 大部分 Issue 在 24 小时内能得到回复。
+
+✅ [EN]: Most issues receive a response within 24 hours.
+
+3. PRs reviewed within reasonable time | PR 在合理时间内被审查
+
+✅ [ZH]: PR 列表显示代码合并非常频繁，审查流程高效。
+
+✅ [EN]: The PR list shows that code is merged very frequently with an efficient review process.
+
+4. Not dependent on a single contributor | 不依赖单一贡献者
+
+✅ [ZH]: 贡献者超过 1000 人，社区多样性高，不依赖特定个人。
+
+✅ [EN]: Over 1,000 contributors with high community diversity; not dependent on any single individual.
+
+5. Clear LICENSE file | 明确的 LICENSE 文件
+
+✅ [ZH]: 根目录下有明显的 Apache-2.0 开源证书文件。
+
+✅ [EN]: Clear Apache-2.0 open-source license file exists in the root directory.
+
+6. README + docs/ folder | 有 README 和 docs/ 目录
+
+✅ [ZH]: 包含极其详尽的文档目录，并提供完整的中英双语版本。
+
+✅ [EN]: Includes a very detailed documentation directory with full bilingual support.
+
+7. tests/ folder + CI badges | 有 tests/ 目录与 CI 徽章
+
+✅ [ZH]: 包含大量的 _test.go 文件，且有 GitHub Actions 持续集成监控。
+
+✅ [EN]: Contains numerous _test.go files and active CI monitoring via GitHub Actions.
+
+8. CONTRIBUTING.md exists | 有 CONTRIBUTING.md 指南
+
+✅ [ZH]: 根目录下提供了清晰的贡献指南，方便新开发者加入。
+
+✅ [EN]: A clear contributing guide is available in the root directory for new developers.
+
+Test5
+
+놀라운 점: TiDB의 코드 구조는 매우 엄격하며, 비록 중국 회사에서 시작했지만 코드 주석과 Issue 토론은 거의 모두 영어를 사용하여 높은 수준의 국제화를 보여줍니다.
+
+특징: 그것은 전형적인 '글로벌화' 프로젝트입니다. 비록 핵심 개발 팀이 중국에 있지만, 그것은 CNCF 방식의 오픈 소스 관리 모델을 엄격히 따르고 있습니다.
+
+첫 번째 기여: 저는 "문서 중국어 완성"이나 "README의 실패한 링크 수정"에서 시작할 수 있다고 생각합니다. 이것이 가장 쉽게 접근할 수 있는 방법입니다.
